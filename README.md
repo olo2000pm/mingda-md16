@@ -1,2 +1,2 @@
 # mingda-md16
-Firmware for MKS SBASE L V2
+Firmware for MKS SBASE L V2.0
